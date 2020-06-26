@@ -2,7 +2,7 @@
 int speedPin = 5;
 int dirPin1 = 4;
 int dirPin2 = 3;
-int motorSpeed=100;
+int motorSpeed=255;
 
 int DT=250;
 
